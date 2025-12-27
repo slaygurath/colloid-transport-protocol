@@ -36,7 +36,8 @@ This protocol outlines standardized procedures for collecting field soil samples
 
 ### 3.2 Dispersion and Separation
 1. Weigh 100 g of sieved soil into a 1‑L polypropylene bottle.
-2. Add 500 mL of deionized water (pH adjusted to 7.0 with 0.01 M NaOH or HCl).
+2. Add 500 mL of deionized water (pH adjusted to 7.0 with 0.01 M NaOH or HCl).  
+   *Note: For colloid stability tests, adjust pH to values relevant to the expected environmental conditions (typically pH 5–8).*
 3. Shake on a horizontal shaker (150 rpm) for 24 h at 20 °C.
 4. Allow the suspension to settle for 1 h; carefully decant the supernatant containing colloids.
 5. Centrifuge the supernatant at 3000 g for 15 min to remove coarse particles.
